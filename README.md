@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **phonehtutkhaung.dev@gmail.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phonetut)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/phome.htut.khaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phome.htut.khaung" height="30" width="40" /></a>
