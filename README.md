@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Phone Htut Khaung, and I'm a Web DevOps Engineer, from New Way Myanmar</h2>
+<h2 align="left">Hi 👋! My name is Phone Htut Khaung, and I'm a Web DevOps Engineer, from Innovix Solutions</h2>
 
 ###
 
